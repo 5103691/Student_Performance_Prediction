@@ -10,7 +10,7 @@ The objective of this project is to:
 - Save the trained model in a joblib file, allowing for reuse and deployment.
 
 ## Key Features
-- **Data Visualization**: Includes histograms, box plots, and bar charts to visualize scores and understand relationships.
+- **Data Visualization**: Includes histograms and bar charts to visualize scores and understand relationships.
 - **Feature Engineering**: Adds new columns for average marks and grades to enhance predictive modeling.
 - **Machine Learning Models**: Uses Naive Bayes and Decision Tree classifiers for grade prediction.
 - **Model Persistence**: Saves the Decision Tree model for later use with joblib.
